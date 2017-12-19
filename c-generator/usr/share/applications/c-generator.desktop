@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+Name=C-Generator
+Name[de]=C-Generator
+Comment=Generator for C
+Comment[de]=C Quellcodes generieren
+Exec=/usr/share/c-generator/generator.sh
+Icon=generator
+Terminal=true
+Type=Application
+Categories=Development;
+StartupNotify=false
+Name[de_DE]=C-Generator

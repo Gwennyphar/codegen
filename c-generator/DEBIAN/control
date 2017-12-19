@@ -1,0 +1,11 @@
+Package: c-generator
+Version: 1.0-1ubuntu1
+Section: Development
+Priority: extra
+Architecture: all
+Depends:
+Installed-Size: 8
+Maintainer: Nico Anders <nico-anders@gmx.de>
+Description: Code-Generator zum Erzeugen von Quellcodes
+ "Ein schlanker Generator, der C Quellcodes generiert"
+
